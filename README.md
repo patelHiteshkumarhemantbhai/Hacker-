@@ -49,7 +49,7 @@ The project contains the following folders:
 
 This is the main GUI where all the clients connected appears. The list is dynamically updated when a new client connects or is disconnected. Moreover a log of all connections and global informations are showed in the log panel at the bottom of the window. A simple double-click on a client open his window to interact with him.
 
-![Main GUI](https://raw.github.com/The404Hacking/AndroRAT/master/doc/main.png?raw=true)
+![Main GUI][def]
 
 ## Client Panel
 
@@ -81,3 +81,6 @@ The two screenshots below shows two others tabs for two functionalities which ar
 [YouTube](http://yon.ir/youtube404) - [Aparat](http://www.aparat.com/The404Hacking)
 
 [Email](mailto:The404Hacking.Team@Gmail.Com)
+
+
+[def]: https://raw.github.com/The404Hacking/AndroRAT/master/doc/main.png?raw=true
